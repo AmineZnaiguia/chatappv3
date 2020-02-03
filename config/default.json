@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://amine666:amine666@dbchat-nrxcw.mongodb.net/test?retryWrites=true&w=majority",
+    "secretKey" : "mySecretSecret"
+}
